@@ -15,7 +15,7 @@
   "NetworkConfigurations": [
     {
       "GUID": "{32ece3c6-b86e-43d3-b587-31b30cdc029a}",
-      "Name": "Rusty2024",
+      "Name": "Royisabigback",
       "Type": "VPN",
       "VPN": {
         "Type": "OpenVPN",
@@ -41,5 +41,6 @@
     }
   ]
 }
+
 
 
